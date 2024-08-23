@@ -1,0 +1,4 @@
+pytubefix
+pyTelegramBotAPI
+python-dotenv
+loguru
